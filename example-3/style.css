@@ -1,0 +1,21 @@
+.box {
+  border: 2px solid gold;
+  background-color: honeydew;
+}
+
+.box2 {
+  width: 50%;
+  position: relative;
+  margin: 100px auto;
+  padding: 15px 5px 50px 75px;
+}
+
+.smallbox {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+}
+
+ul {
+  padding: 0;
+}
